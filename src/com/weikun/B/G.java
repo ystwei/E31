@@ -17,6 +17,7 @@ public class G {
         list.add(new Node("c",15));
         list.add(new Node("d",18));
 
+
         g.breath(g.createTree(list));
     }
     public void breath(Node root){//广度遍历
