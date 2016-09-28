@@ -66,7 +66,7 @@ public class F {
         }
 
     }
-        public void depthOrderTraversal(){//DLR
+    public void depthOrderTraversal(){//DLR
         if(root==null){
             System.out.print("不能深度遍历");
             return;
@@ -87,7 +87,7 @@ public class F {
 
 
     }
-        private TreeNode root;
+    private TreeNode root;
     /**
      * @param items:数据集合
      */
