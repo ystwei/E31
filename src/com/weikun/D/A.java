@@ -58,12 +58,12 @@ public class A {
                 int biggerIndex=k*2+1;
                 if(biggerIndex<lastIndex){//没越界
 
-                    if(data[biggerIndex]-data[biggerIndex+1]<0){
+                    if(data[biggerIndex]-data[biggerIndex+1]<0){//同兄弟比
                         biggerIndex++;
                     }
 
                 }
-                //biggerIndex>=lastIndex
+                //biggerIndex>=lastIndex，父亲和你比
                 if(data[k]-data[biggerIndex]<0){
 
                     //交换
