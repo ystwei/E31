@@ -8,7 +8,7 @@ public class A {
 
 
     public static void main(String[] args) {
-        char[] vexs = {'A', 'B', 'C', 'D'};
+        char[] vexs = {'A', 'B', 'C', 'D'};//
         //
         //		//有向图是
 //		char[][] edges = new char[][]{//边是个二维数组
