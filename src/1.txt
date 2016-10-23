@@ -1,0 +1,25 @@
+1.世界上最大的开源公司，Android Google。
+2.J2ME：Java 2 Micro Edition:
+3.J2SE: Java 2 Standard Edition:
+4.J2EE: Java 2 Enterprise Edition:
+5.编译型语言缺点不能跨平台(platform)，不安全。
+  速度还是快的，
+6.解释型：JS
+  缺点：慢 IE,google chrome，firefox，safari,opera,
+  优点：跨平台
+
+7.java先编译后解释，中性的语言
+8、Java Virtual Machine:
+9. Java Runtime Environment:
+10.GC: Garbage Collection:垃圾回收：heap,程序猿无法干预，
+11.JDK:Java Development Kits：
+12.javac：java compile:java编译
+   java---class
+
+
+windows(xp,7 8 10,2000)
+DOS()
+unix
+linux(ububtu,centos,kali,android)
+mac(ios)
+

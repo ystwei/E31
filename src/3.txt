@@ -1,0 +1,10 @@
+1.基本类型（栈）：primitive type:
+  整数类型：byte,short,int,long
+  浮点类型：float,double
+  字符类型：char
+  布尔类型：boolean
+
+2.引用类型(栈，堆)：reference type
+  C++,指针类型，null，array,class,interface，enum...
+3.stack:栈
+  heap:堆

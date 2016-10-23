@@ -35,17 +35,12 @@ public class A {
         for(int i=0;i<arrayLength-1;i++){
             System.out.println("创建大顶堆");
             builMaxdHeap(arrayLength-1-i);
-
         }
-
-
     }
     //对data数组从0到lastIndex建大顶堆.
     //大顶堆的特性是：所有父节点的值都大于两个左右子节点
     private  void builMaxdHeap( int lastIndex) {//修建大顶堆
         for(int i=(lastIndex-1)/2;i>=0;i--){//倒着找叶子节点的父亲
-
-
             int k=i;
             /*
 		 *        9

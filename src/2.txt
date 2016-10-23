@@ -1,0 +1,67 @@
+1.App:Application
+2.单行注释
+  多行注释
+  文档注释
+3.parameter：参数
+4.作业：javadoc
+5.标识符首字母必须是英文，$，下划线
+  非首字母，其他字符可以用数字
+6.refactor:重构
+7.java能用中文编程，字符集，unicode[0-65535]  utf-8
+  C，C++都不能，字符集：ASCII【0-255】
+8.char-[0-65535] -->int
+9.作业：我叫XXX，我来自XXX
+10.keywords:关键字
+
+abstract：抽象的
+boolean：true，false
+break：中断
+byte：字节
+continue：继续
+case：事件
+catch：捕获
+char：字符
+class：类
+do：
+dobule：双精度浮点
+for：
+default：默认
+else：否则
+extends：继承
+finally：最终的
+final：最终的。
+float：单精度浮点
+long：长整
+if：如果
+implements：实现
+import：导入，==include
+new：实例化
+instanceof：XXX是某接口的实现吗，是某接口的实例吗
+int：整数
+interface：接口
+package：包
+private:私有
+protected：保护
+public:公共
+return:返回
+short:短整
+static:静态的
+super:超级的
+switch：开关
+synchronized:线程，同步
+this：我 me
+while：
+void：返回值为空
+throw：抛出异常
+throws：抛出多个
+try：尝试
+
+
+
+
+
+
+
+
+
+
